@@ -13,8 +13,9 @@ git push -u origin main
 pip install .\requarements.txt
 ```
 
-## venv create
+## venv
 
+create
 ```
 -m venv venv
 ```
