@@ -3,7 +3,7 @@
 
 ```
 git add .
-git commit -m 'first'
+git commit -m 'AddToPrevious'
 git push -u origin main
 ```
 
