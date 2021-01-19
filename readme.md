@@ -12,3 +12,13 @@ git push -u origin main
 ```
 pip install .\requarements.txt
 ```
+
+## venv create
+
+```
+-m venv venv
+```
+activare
+```
+.\venv\Scripts\activate
+```
